@@ -9,5 +9,3 @@ for (var i = 0; i < reindeer.length; i++) {
     hohohoElement.innerHTML += (colors[i] + " " + reindeer[i] +  "<br>");
 
 }
-
-    /*document.getElementById("reindeer").innerHTML = hohohoElement; */
